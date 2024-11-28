@@ -2,6 +2,10 @@
 
 Hi everyone, here we will be compiling a list of useful resources for WordPress development. If you have something to share, please create a Merge Request.
 
+## Tutorials
+
+[How to create multiple websites in XAMPP for Windows](/multiple-websites-xampp-windows.md)
+
 ## Visual Code Plugins
 
 Wordpress & PHP Plugins
