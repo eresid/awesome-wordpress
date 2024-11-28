@@ -2,6 +2,10 @@
 
 Hi everyone, here we will be compiling a list of useful resources for WordPress development. If you have something to share, please create a Merge Request.
 
+## Tools & Links
+
+[.gitignore file](https://github.com/github/gitignore/blob/main/WordPress.gitignore)
+
 ## Tutorials
 
 [How to create multiple websites in XAMPP for Windows](/multiple-websites-xampp-windows.md)
