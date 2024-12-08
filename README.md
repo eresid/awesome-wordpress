@@ -6,6 +6,7 @@ Hi everyone, here we will be compiling a list of useful resources for WordPress 
 
 - [.gitignore file](https://github.com/github/gitignore/blob/main/WordPress.gitignore)
 - [UnderScores - Starter Theme for Wordpress](https://underscores.me/)
+- [SVG Icons](https://www.svgrepo.com/)
 
 ## Tutorials
 
